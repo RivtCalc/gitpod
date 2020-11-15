@@ -3,4 +3,4 @@ image:
   
 tasks:
   - init: pip3 install -r requirements.txt
-  - init: pip3 install git+https://github.com/RivetCalcs/rivetcalcs-code
+  - init: pip3 install git+https://github.com/RivtCalc/rivtcalc-code
